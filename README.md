@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YaroslavKyrpych, I know Python, Flask, MongoDB, SQL, Linux (Ubuntu), Finance, Investing
-- 👀 I’m interested in tech entrepreneurship
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript
 - 📫 yaroslav.kyrpych@gmail.com
 
